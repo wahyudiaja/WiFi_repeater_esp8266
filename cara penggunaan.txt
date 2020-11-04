@@ -1,0 +1,7 @@
+
+
+1. gunakan flash tool esp 8266
+2. apload 2 file 0x00000.bin dan 0x0200.bin
+3. buka wifi dan koneksikan dan masuk ke browswer masukkan ip 192.168.4.1
+4. set wifi dan pasword yg akan diteruskan sesuai yg ada
+5. set nama wifi baru dan pasword  yg di inginkan
